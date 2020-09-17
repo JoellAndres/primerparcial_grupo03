@@ -1,0 +1,6 @@
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\bin\Debug\PrimerParcialLab.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\bin\Debug\PrimerParcialLab.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\bin\Debug\PrimerParcialLab.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\obj\Debug\PrimerParcialLab.csprojResolveAssemblyReference.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\obj\Debug\PrimerParcialLab.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\PrimerParcialLab\PrimerParcialLab\obj\Debug\PrimerParcialLab.pdb
